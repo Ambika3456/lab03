@@ -1,0 +1,40 @@
+
+#wholepage {
+    background-color:pink;
+}
+h1{
+    color:red;
+    font-size:34px;
+}
+h2{
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+h3{
+    color:red;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.blue{
+    color:purple;
+}
+em{
+    color:blue;
+    }
+p{
+    color: green;
+}
+footer{
+    background-color:red;
+}
+ol{
+    font-weight:bold;
+    color:white;
+}
+a{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:800;
+}
+
+
